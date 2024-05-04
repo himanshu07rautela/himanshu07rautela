@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A happy chappy fullstack developer from India</h3>
- <img align="center" alt="coding" width="400" src="https://i.gifer.com/origin/78/7821a8c6532bb0dc7d6c4b75574289f0.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu07rautela&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu07rautela" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/78/7821a8c6532bb0dc7d6c4b75574289f0.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu07rautela&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu07rautela" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu07rautela" alt="himanshu07rautela" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio website**
 
@@ -29,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu07rautela&show_icons=true&locale=en&layout=compact" alt="himanshu07rautela" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu07rautela&show_icons=true&locale=en" alt="himanshu07rautela" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu07rautela&" alt="himanshu07rautela" /></p>
