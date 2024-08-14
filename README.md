@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Collab Platform**
+- 🔭 I’m currently working on **Stoic Application**
 
-- 🌱 I’m currently learning **SOMETHING GOOD:)**
+- 🌱 I’m currently learning **Clustering**
 
 - 💬 Ask me about **React , Node.js , MERN**
 
